@@ -1,0 +1,8 @@
+C:\Users\laptop\source\repos\discrete2\discrete2\obj\Debug\discrete2.csproj.AssemblyReference.cache
+C:\Users\laptop\source\repos\discrete2\discrete2\obj\Debug\discrete2.csproj.SuggestedBindingRedirects.cache
+C:\Users\laptop\source\repos\discrete2\discrete2\obj\Debug\discrete2.csproj.CoreCompileInputs.cache
+C:\Users\laptop\source\repos\discrete2\discrete2\bin\Debug\discrete2.exe.config
+C:\Users\laptop\source\repos\discrete2\discrete2\bin\Debug\discrete2.exe
+C:\Users\laptop\source\repos\discrete2\discrete2\bin\Debug\discrete2.pdb
+C:\Users\laptop\source\repos\discrete2\discrete2\obj\Debug\discrete2.exe
+C:\Users\laptop\source\repos\discrete2\discrete2\obj\Debug\discrete2.pdb
